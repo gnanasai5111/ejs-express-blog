@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body{
+  font-family: 'Roboto', sans-serif !important;
+}
+.navbar {
+  position: relative;
+  height: 70px;
+  background-color: brown;
+}
+
+.navbar h2 {
+  position: absolute;
+  left: 60px;
+  padding: 20px 25px;
+  color: #ffffff;
+}
+
+.navbar ul {
+  position: absolute;
+  right: 60px;
+}
+
+.navbar ul li {
+  display: inline-block;
+  padding: 20px 25px;
+  color: #ffffff;
+}
+
+footer {
+  background-color: firebrick;
+  padding: 5px 0;
+  text-align: center;
+  color: #fff;
+  width: 100%;
+}
+h1,p{
+  margin:15px 0;
+}
+.container{
+  margin-top:100px;
+  margin-bottom: 400px;
+}
